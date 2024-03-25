@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Calendario Académico 2023</title>
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://bootswatch.com/5/lumen/bootstrap.min.css">
+  <link rel="shortcut icon" href="./img/calendar.ico" type="image/x-icon">
+
+  <style>
+    h2{
+      padding: 0;
+      margin: 0;
+    }
+    .bold{
+      font-weight: bold;
+    }
+    h1{text-decoration:underline}
+  </style>
+</head>
+<body style="text-align: center;">
+  <div class="container mt-5">
+    <h1 class="text-warning bold mb-3">CALENDARIO ACADÉMICO 2024</h1>
+    <h2 class="text-success bold">CEMG Pascual Fajardo Férnandez</h2>
+    <h2 class="text-info">III BTP en Informática</h2>
+    <table class="table table-bordered mt-4">
+      <thead class="thead-light">
+        <tr>
+          <th>Semana</th>
+          <th>Inicio</th>
+          <th>Fin</th>
+          <th>Actividad</th>
+          <th>Finalizado</th>
+        </tr>
+      </thead>
+      <tbody id="tabla">
+      </tbody>
+    </table>
+  </div>
+  <!-- Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+  <script src="main.js"></script>
+</body>
+</html>
