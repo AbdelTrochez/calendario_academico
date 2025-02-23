@@ -1,309 +1,295 @@
 [
   {
     "semana": 1,
-    "inicio": "01/02/2024",
-    "fin": "02/02/2024",
+    "inicio": "10/02/2025",
+    "fin": "14/02/2025",
     "actividad": "Clases",
     "finalizado": false
   },
   {
     "semana": 2,
-    "inicio": "05/02/2024",
-    "fin": "09/02/2024",
+    "inicio": "17/02/2025",
+    "fin": "21/02/2025",
     "actividad": "Clases",
     "finalizado": false
   },
   {
     "semana": 3,
-    "inicio": "12/02/2024",
-    "fin": "16/02/2024",
+    "inicio": "24/02/2025",
+    "fin": "28/02/2025",
     "actividad": "Clases",
     "finalizado": false
   },
   {
     "semana": 4,
-    "inicio": "19/02/2024",
-    "fin": "23/02/2024",
+    "inicio": "03/03/2025",
+    "fin": "07/03/2025",
     "actividad": "Clases",
     "finalizado": false
   },
   {
     "semana": 5,
-    "inicio": "26/02/2024",
-    "fin": "01/03/2024",
+    "inicio": "10/03/2025",
+    "fin": "14/03/2025",
     "actividad": "Clases",
     "finalizado": false
   },
   {
     "semana": 6,
-    "inicio": "04/03/2024",
-    "fin": "08/03/2024",
+    "inicio": "17/03/2025",
+    "fin": "21/03/2025",
     "actividad": "Clases",
     "finalizado": false
   },
   {
     "semana": 7,
-    "inicio": "11/03/2024",
-    "fin": "15/03/2024",
+    "inicio": "24/03/2025",
+    "fin": "28/03/2025",
     "actividad": "Clases",
     "finalizado": false
   },
   {
     "semana": 8,
-    "inicio": "18/03/2024",
-    "fin": "22/03/2024",
-    "actividad": "Examenes",
-    "finalizado": false
-  },
-  {
-    "semana": 9,
-    "inicio": "25/03/2024",
-    "fin": "29/03/2024",
-    "actividad": "Feriado",
-    "finalizado": false
-  },
-  {
-    "semana": 10,
-    "inicio": "01/04/2024",
-    "fin": "05/04/2024",
+    "inicio": "31/03/2025",
+    "fin": "04/04/2025",
     "actividad": "Clases",
     "finalizado": false
   },
   {
+    "semana": 9,
+    "inicio": "07/04/2025",
+    "fin": "11/04/2025",
+    "actividad": "Examenes",
+    "finalizado": false
+  },
+  {
+    "semana": 10,
+    "inicio": "14/04/2025",
+    "fin": "18/04/2025",
+    "actividad": "Feriado",
+    "finalizado": false
+  },
+  {
     "semana": 11,
-    "inicio": "08/04/2024",
-    "fin": "12/04/2024",
+    "inicio": "21/04/2025",
+    "fin": "25/04/2025",
     "actividad": "Clases",
     "finalizado": false
   },
   {
     "semana": 12,
-    "inicio": "15/04/2024",
-    "fin": "19/04/2024",
+    "inicio": "28/04/2025",
+    "fin": "02/05/2025",
     "actividad": "Clases",
     "finalizado": false
   },
   {
     "semana": 13,
-    "inicio": "22/04/2024",
-    "fin": "26/04/2024",
+    "inicio": "05/05/2025",
+    "fin": "09/05/2025",
     "actividad": "Clases",
     "finalizado": false
   },
   {
     "semana": 14,
-    "inicio": "29/04/2024",
-    "fin": "03/05/2024",
+    "inicio": "12/05/2025",
+    "fin": "16/05/2025",
     "actividad": "Clases",
     "finalizado": false
   },
   {
     "semana": 15,
-    "inicio": "06/05/2024",
-    "fin": "10/05/2024",
-    "actividad": "Examenes",
+    "inicio": "19/05/2025",
+    "fin": "23/05/2025",
+    "actividad": "Clases",
     "finalizado": false
   },
   {
     "semana": 16,
-    "inicio": "13/05/2024",
-    "fin": "17/05/2024",
-    "actividad": "Recuperaciones",
+    "inicio": "26/05/2025",
+    "fin": "30/05/2025",
+    "actividad": "Examenes",
     "finalizado": false
   },
   {
     "semana": 17,
-    "inicio": "20/05/2024",
-    "fin": "24/05/2024",
+    "inicio": "02/06/2025",
+    "fin": "06/06/2025",
     "actividad": "Clases",
     "finalizado": false
   },
   {
     "semana": 18,
-    "inicio": "27/05/2024",
-    "fin": "31/05/2024",
+    "inicio": "09/06/2025",
+    "fin": "13/06/2025",
     "actividad": "Clases",
     "finalizado": false
   },
   {
     "semana": 19,
-    "inicio": "03/06/2024",
-    "fin": "07/06/2024",
+    "inicio": "16/06/2025",
+    "fin": "20/06/2025",
     "actividad": "Clases",
     "finalizado": false
   },
   {
     "semana": 20,
-    "inicio": "10/06/2024",
-    "fin": "14/06/2024",
+    "inicio": "23/06/2025",
+    "fin": "27/06/2025",
     "actividad": "Clases",
     "finalizado": false
   },
   {
     "semana": 21,
-    "inicio": "17/06/2024",
-    "fin": "21/06/2024",
-    "actividad": "Clases",
-    "finalizado": false
-  },
-  {
-    "semana": 22,
-    "inicio": "24/06/2024",
-    "fin": "28/06/2024",
-    "actividad": "Clases",
-    "finalizado": false
-  },
-  {
-    "semana": 23,
-    "inicio": "01/07/2024",
-    "fin": "05/07/2024",
+    "inicio": "30/06/2025",
+    "fin": "04/07/2025",
     "actividad": "Examenes",
     "finalizado": false
   },
   {
-    "semana": 24,
-    "inicio": "08/07/2024",
-    "fin": "12/07/2024",
+    "semana": 22,
+    "inicio": "07/07/2025",
+    "fin": "11/07/2025",
     "actividad": "Feriado",
     "finalizado": false
   },
   {
+    "semana": 23,
+    "inicio": "14/07/2025",
+    "fin": "18/07/2025",
+    "actividad": "Clases",
+    "finalizado": false
+  },
+  {
+    "semana": 24,
+    "inicio": "21/07/2025",
+    "fin": "25/07/2025",
+    "actividad": "Clases",
+    "finalizado": false
+  },
+  {
     "semana": 25,
-    "inicio": "15/07/2024",
-    "fin": "19/07/2024",
+    "inicio": "28/07/2025",
+    "fin": "01/08/2025",
     "actividad": "Clases",
     "finalizado": false
   },
   {
     "semana": 26,
-    "inicio": "22/07/2024",
-    "fin": "26/07/2024",
+    "inicio": "04/08/2025",
+    "fin": "08/08/2025",
     "actividad": "Clases",
     "finalizado": false
   },
   {
     "semana": 27,
-    "inicio": "29/07/2024",
-    "fin": "02/08/2024",
+    "inicio": "11/08/2025",
+    "fin": "15/08/2025",
     "actividad": "Clases",
     "finalizado": false
   },
   {
     "semana": 28,
-    "inicio": "05/08/2024",
-    "fin": "09/08/2024",
-    "actividad": "Clases",
-    "finalizado": false
-  },
-  {
-    "semana": 29,
-    "inicio": "12/08/2024",
-    "fin": "16/08/2024",
-    "actividad": "Clases",
-    "finalizado": false   
-  },
-  {
-    "semana": 30,
-    "inicio": "19/08/2024",
-    "fin": "23/08/2024",
+    "inicio": "18/08/2025",
+    "fin": "22/08/2025",
     "actividad": "Examenes",
     "finalizado": false
   },
   {
-    "semana": 31,
-    "inicio": "26/08/2024",
-    "fin": "30/08/2024",
+    "semana": 29,
+    "inicio": "25/08/2025",
+    "fin": "29/08/2025",
     "actividad": "Charlas",
     "finalizado": false
   },
   {
+    "semana": 30,
+    "inicio": "01/09/2025",
+    "fin": "05/09/2025",
+    "actividad": "Practica",
+    "finalizado": false
+  },
+  {
+    "semana": 31,
+    "inicio": "08/09/2025",
+    "fin": "12/09/2025",
+    "actividad": "Practica",
+    "finalizado": false
+  },
+  {
     "semana": 32,
-    "inicio": "02/09/2024",
-    "fin": "06/09/2024",
+    "inicio": "15/09/2025",
+    "fin": "19/09/2025",
     "actividad": "Practica",
     "finalizado": false
   },
   {
     "semana": 33,
-    "inicio": "09/09/2024",
-    "fin": "13/09/2024",
+    "inicio": "22/09/2025",
+    "fin": "26/09/2025",
     "actividad": "Practica",
     "finalizado": false
   },
   {
     "semana": 34,
-    "inicio": "16/09/2024",
-    "fin": "20/09/2024",
+    "inicio": "29/09/2025",
+    "fin": "03/10/2025",
     "actividad": "Practica",
     "finalizado": false
   },
   {
     "semana": 35,
-    "inicio": "23/09/2024",
-    "fin": "27/09/2024",
+    "inicio": "06/10/2025",
+    "fin": "10/10/2025",
     "actividad": "Practica",
     "finalizado": false
   },
   {
     "semana": 36,
-    "inicio": "30/09/2024",
-    "fin": "04/10/2024",
-    "actividad": "Practica",
+    "inicio": "13/10/2025",
+    "fin": "17/10/2025",
+    "actividad": "Clases",
     "finalizado": false
   },
   {
     "semana": 37,
-    "inicio": "07/10/2024",
-    "fin": "11/10/2024",
-    "actividad": "Practica",
+    "inicio": "20/10/2025",
+    "fin": "24/10/2025",
+    "actividad": "Clases",
     "finalizado": false
   },
   {
     "semana": 38,
-    "inicio": "14/10/2024",
-    "fin": "18/10/2024",
+    "inicio": "27/10/2025",
+    "fin": "31/10/2025",
     "actividad": "Clases",
     "finalizado": false
   },
   {
     "semana": 39,
-    "inicio": "21/10/2024",
-    "fin": "25/10/2024",
+    "inicio": "03/11/2025",
+    "fin": "07/11/2025",
     "actividad": "Clases",
     "finalizado": false
   },
   {
     "semana": 40,
-    "inicio": "28/10/2024",
-    "fin": "01/11/2024",
+    "inicio": "10/11/2025",
+    "fin": "14/11/2025",
     "actividad": "Clases",
     "finalizado": false
   },
   {
     "semana": 41,
-    "inicio": "04/11/2024",
-    "fin": "08/11/2024",
+    "inicio": "17/11/2025",
+    "fin": "21/11/2025",
     "actividad": "Clases",
     "finalizado": false
   },
   {
     "semana": 42,
-    "inicio": "11/11/2024",
-    "fin": "15/11/2024",
-    "actividad": "Clases",
-    "finalizado": false
-  },
-  {
-    "semana": 43,
-    "inicio": "18/11/2024",
-    "fin": "22/11/2024",
-    "actividad": "Clases",
-    "finalizado": false
-  },
-  {
-    "semana": 44,
-    "inicio": "25/11/2024",
-    "fin": "29/11/2024",
+    "inicio": "24/11/2025",
+    "fin": "28/11/2025",
     "actividad": "Clases",
     "finalizado": false
   }
